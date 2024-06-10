@@ -1,2 +1,2 @@
-# test-1-
-first try and some random bullsht
+# test-1
+!pip install my_sanity
